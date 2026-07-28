@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 663
+# TOTAL: 672
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,afeica.com
   - DOMAIN-SUFFIX,afuns.me
+  - DOMAIN-SUFFIX,ahlt10010.com
   - DOMAIN-SUFFIX,aibeike.com
   - DOMAIN-SUFFIX,aichangbaishan.com
   - DOMAIN-SUFFIX,aidien.fun
@@ -104,6 +105,7 @@ payload:
   - DOMAIN-SUFFIX,boyuemobile.com
   - DOMAIN-SUFFIX,bsbsb.top
   - DOMAIN-SUFFIX,bunny.net
+  - DOMAIN-SUFFIX,ca-sinfusi.com
   - DOMAIN-SUFFIX,canghaiip.com
   - DOMAIN-SUFFIX,cangjie-lang.net
   - DOMAIN-SUFFIX,ccw.site
@@ -140,6 +142,7 @@ payload:
   - DOMAIN-SUFFIX,crrcgo.cc
   - DOMAIN-SUFFIX,crtyhr.com
   - DOMAIN-SUFFIX,csqaq.com
+  - DOMAIN-SUFFIX,cym520.top
   - DOMAIN-SUFFIX,cyouzai.com
   - DOMAIN-SUFFIX,d4ctech.com
   - DOMAIN-SUFFIX,dadateach.com
@@ -178,6 +181,7 @@ payload:
   - DOMAIN-SUFFIX,epark.cc
   - DOMAIN-SUFFIX,epg.aptv.app
   - DOMAIN-SUFFIX,epg.v1.mk
+  - DOMAIN-SUFFIX,erocraft.com
   - DOMAIN-SUFFIX,et0731.com
   - DOMAIN-SUFFIX,everdrawing.com
   - DOMAIN-SUFFIX,excelbbx.net
@@ -266,6 +270,7 @@ payload:
   - DOMAIN-SUFFIX,harbourmooc.com
   - DOMAIN-SUFFIX,hbcof.com
   - DOMAIN-SUFFIX,hbctic.com
+  - DOMAIN-SUFFIX,hbymfswz.com
   - DOMAIN-SUFFIX,hdbz.net
   - DOMAIN-SUFFIX,hexiny.com
   - DOMAIN-SUFFIX,hezuvip.com
@@ -411,6 +416,7 @@ payload:
   - DOMAIN-SUFFIX,netzz.net
   - DOMAIN-SUFFIX,nicezhuanye.com
   - DOMAIN-SUFFIX,nkxingxh.top
+  - DOMAIN-SUFFIX,nlyd.club
   - DOMAIN-SUFFIX,nn.ci
   - DOMAIN-SUFFIX,nodcloud.com
   - DOMAIN-SUFFIX,noyer.eu.org
@@ -504,6 +510,7 @@ payload:
   - DOMAIN-SUFFIX,starlink.uno
   - DOMAIN-SUFFIX,stkfanli.com
   - DOMAIN-SUFFIX,sunrisecontent.akamaized.net
+  - DOMAIN-SUFFIX,susudesu.com
   - DOMAIN-SUFFIX,suu-fun.com
   - DOMAIN-SUFFIX,suyur.com
   - DOMAIN-SUFFIX,svyun.com
@@ -654,6 +661,8 @@ payload:
   - DOMAIN-SUFFIX,ztytech.com
   - DOMAIN-SUFFIX,zuobiao.press
   - DOMAIN-SUFFIX,zysou.com
+  - DOMAIN-SUFFIX,zzclass.com
+  - DOMAIN-SUFFIX,zzr.cc
   - DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
   - DST-PORT,7844
   - SRC-PORT,41641
